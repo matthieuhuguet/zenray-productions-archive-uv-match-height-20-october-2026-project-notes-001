@@ -214,3 +214,22 @@
 - Source: checkpoint:codex:01a15924-aa22-7300-9533-52fc3fd3f30f. (20 October 2026, 15:20:44 +0200)
 
 > Article illustré UV-Match Height prêt localement : 8 sections, 6 prompts, 7 images et 3 sources JSON, HTML autonome SHA-256 4951a8b8f801eb3dc940000c62654734fb77858540f729ed19e4a35ca0e9f839. Lecteur Assets vérifié dans Classique/Tube et miniature réelle, accès aux fichiers conservé. Tests, build et contrats verts ; commit local 77f4c81c dans Drafts/Code. Skills zenray-edit, zenray-assets et zenray-progress documentés et synchronisés. Aucun déploiement ni publication du lot ; Drafts exclu et classement canonique différé pour respecter la revue. Prochain : accord de Matthieu sur l’aperçu, puis livraison du code, classement des 14 fichiers, publication et vérification des reçus cloud. Mémoire : Project1.md du projet. (20 October 2026, 15:20:44 +0200)
+
+## 20 October 2026, 15:22:40 +0200 : Iteration
+
+<!-- feedback-event:15476eeb593a965758e288261985b1f0a6995f388a8b5a15a880ae1740a05b5c (20 October 2026, 15:22:40 +0200) -->
+- Project: uv-match-height-20-october-2026; kind: iteration. (20 October 2026, 15:22:40 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/20/rollout-2026-10-20T13-48-57-01a15924-aa22-7300-9533-52fc3fd3f30f.jsonl. (20 October 2026, 15:22:40 +0200)
+
+> L’[article UV-Match Height](http://127.0.0.1:4199/) est prêt : méthode complète, **six prompts**, illustrations commentées, index des sources et lien vers **ChatGPT Image sur chatgpt.com**. (20 October 2026, 15:22:40 +0200)
+>
+> [Voir l’article intégré dans Assets](http://127.0.0.1:4201/ArticlePreview-20-October-2026.html?project=uv-match-height-20-october-2026). (20 October 2026, 15:22:40 +0200)
+>
+> **Valides-tu cet article pour sa publication et le déploiement de la nouvelle vue Assets ?** J’attends ton accord conformément à ta demande de relecture préalable. (20 October 2026, 15:22:40 +0200)
+>
+> | Ce que tu demandes | État | Preuve | (20 October 2026, 15:22:40 +0200)
+> |---|---|---| (20 October 2026, 15:22:40 +0200)
+> | Article illustré | Prêt | Rendu ordinateur et mobile vérifié | (20 October 2026, 15:22:40 +0200)
+> | Article avant les fichiers | Prêt | Classique et Tube testés, miniature visible | (20 October 2026, 15:22:40 +0200)
+> | Deux skills consignés | Fait | Instructions synchronisées, contrôles réussis | (20 October 2026, 15:22:40 +0200)
+> | Publication dans Assets | Attente | Aucun déploiement effectué | (20 October 2026, 15:22:40 +0200)
