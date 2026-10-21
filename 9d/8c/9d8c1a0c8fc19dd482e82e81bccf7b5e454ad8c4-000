@@ -324,3 +324,48 @@
 > | Tout consigner | Fait | Mémoire, skills, journal et commit `6f14938b9` | (20 October 2026, 23:34:09 +0200)
 >
 > J’arrête ici. (20 October 2026, 23:34:09 +0200)
+
+## 21 October 2026, 15:53:43 +0200 : Prompt
+
+<!-- feedback-event:41715d683d70268ffa885f3c30a98a9a13d2c3e6d99c12d442d7b70a32425e70 (21 October 2026, 15:53:43 +0200) -->
+- Project: uv-match-height-20-october-2026; kind: prompt. (21 October 2026, 15:53:43 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/20/rollout-2026-10-20T13-48-57-01a15924-aa22-7300-9533-52fc3fd3f30f.jsonl. (21 October 2026, 15:53:43 +0200)
+
+> ## My request: (21 October 2026, 15:53:43 +0200)
+> A l'avenir si je veux créer un article je le dis ou ? c'est consigné dans quel skill ? avec le ton neutre par default ? (21 October 2026, 15:53:43 +0200)
+
+## 21 October 2026, 15:53:53 +0200 : Iteration
+
+<!-- feedback-event:c275ffe17e8b439c5a621c8769575a9b4a642239334feaa648abe99f034cdcd1 (21 October 2026, 15:53:53 +0200) -->
+- Project: uv-match-height-20-october-2026; kind: iteration. (21 October 2026, 15:53:53 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/20/rollout-2026-10-20T13-48-57-01a15924-aa22-7300-9533-52fc3fd3f30f.jsonl. (21 October 2026, 15:53:53 +0200)
+
+> Tu peux le demander directement ici : **« Crée un article dans ZenRay Assets pour [projet]. »** (21 October 2026, 15:53:53 +0200)
+>
+> La méthode est consignée dans **`zenray-edit`**, qui crée l’article, et **`zenray-assets`**, qui l’intègre au projet. Le **ton neutre court** est enregistré par défaut pour ces articles : factuel, descriptif, bref, sans figures de style. Les prompts sont conservés mot pour mot. Le skill **`zenray-neutral-tone`** décrit aussi ce ton séparément. (21 October 2026, 15:53:53 +0200)
+
+## 21 October 2026, 15:54:45 +0200 : Prompt
+
+<!-- feedback-event:56b179c91eb386365fb11123dfadde2c033ceb395333ef6268944ec1974bd671 (21 October 2026, 15:54:45 +0200) -->
+- Project: uv-match-height-20-october-2026; kind: prompt. (21 October 2026, 15:54:45 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/20/rollout-2026-10-20T13-48-57-01a15924-aa22-7300-9533-52fc3fd3f30f.jsonl. (21 October 2026, 15:54:45 +0200)
+
+> ## My request: (21 October 2026, 15:54:45 +0200)
+> consigne tout aussi dans zenray-assets sans réécrire juste index mapping avec path + section x à y et je vérifie redonne moi ce qui a bougé dans le chat il vaut mieux call ce skill directement c'est plus logique. (21 October 2026, 15:54:45 +0200)
+
+## 21 October 2026, 15:55:39 +0200 : Iteration
+
+<!-- feedback-event:2c5ddd9193fac736dbf8d193a87c49ad91d9a4d8159ca08338cba4455ff127a3 (21 October 2026, 15:55:39 +0200) -->
+- Project: uv-match-height-20-october-2026; kind: iteration. (21 October 2026, 15:55:39 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/20/rollout-2026-10-20T13-48-57-01a15924-aa22-7300-9533-52fc3fd3f30f.jsonl. (21 October 2026, 15:55:39 +0200)
+
+> Ajouté dans [zenray-assets, section « Articles : index des sources »](/Users/zenray/.claude/skills/zenray-assets/SKILL.md:16), sans recopier ni modifier la méthode. (21 October 2026, 15:55:39 +0200)
+>
+> | Ce qui est indexé | Source | Sections / lignes | (21 October 2026, 15:55:39 +0200)
+> |---|---|---| (21 October 2026, 15:55:39 +0200)
+> | Création et publication | [ProjectArticles.md](/Users/zenray/.claude/skills/zenray-edit/references/ProjectArticles.md:1) | Lignes 1 à 25 | (21 October 2026, 15:55:39 +0200)
+> | Ton neutre court par défaut et sommaire | [ProjectArticles.md](/Users/zenray/.claude/skills/zenray-edit/references/ProjectArticles.md:26) | Lignes 26 à 32 | (21 October 2026, 15:55:39 +0200)
+> | Directives détaillées du ton | [zenray-neutral-tone](/Users/zenray/.claude/skills/zenray-neutral-tone/SKILL.md:16) | Lignes 16 à 22 | (21 October 2026, 15:55:39 +0200)
+> | Exemple publié et preuves | [ProjectArticles.md](/Users/zenray/.claude/skills/zenray-edit/references/ProjectArticles.md:33) | Lignes 33 à 36, puis mémoire du projet | (21 October 2026, 15:55:39 +0200)
+>
+> Tu peux désormais appeler directement **`$zenray-assets` pour créer un article**. Ajout sauvegardé, contrat vérifié. (21 October 2026, 15:55:39 +0200)
