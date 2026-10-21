@@ -291,3 +291,36 @@
 - Project: uv-match-height-20-october-2026; kind: rule. (20 October 2026, 18:36:49 +0200)
 
 > Ton neutre court pour les articles descriptifs ZenRay Assets : contenu factuel, descriptif et bref, explications simples, sans figures de style ni commentaires éditoriaux. Conserver les prompts mot pour mot. Consigner ces règles dans la méthode et la page ; sommaire à gauche masquable ou épinglable, sans recouvrir le texte par défaut sur mobile et desktop. (20 October 2026, 18:36:49 +0200)
+
+## 20 October 2026, 23:31:24 +0200 : Prompt
+
+<!-- feedback-event:d2256ee55cf9701a13b51a844a440b70e4e790df9e4d76cab7897ff16ffb8220 (20 October 2026, 23:31:24 +0200) -->
+- Project: uv-match-height-20-october-2026; kind: prompt. (20 October 2026, 23:31:24 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/20/rollout-2026-10-20T13-48-57-01a15924-aa22-7300-9533-52fc3fd3f30f.jsonl. (20 October 2026, 23:31:24 +0200)
+
+> ## My request: (20 October 2026, 23:31:24 +0200)
+> fini proprement et stop [$ctrl-s](/Users/zenray/.codex/skills/ctrl-s/SKILL.md) consigne tout. (20 October 2026, 23:31:24 +0200)
+
+## 20 October 2026, 23:33:59 +0200 : Iteration
+
+<!-- feedback-event:bc96a4b1c9140d9f217de925afc56b8a7b0c3ebe62a700f98604bf5c15abc2ad (20 October 2026, 23:33:59 +0200) -->
+- Project: uv-match-height-20-october-2026; kind: iteration. (20 October 2026, 23:33:59 +0200)
+- Source: checkpoint:codex:01a15924-aa22-7300-9533-52fc3fd3f30f. (20 October 2026, 23:33:59 +0200)
+
+> Article publié et vérifié. Ton neutre court consigné, six prompts inchangés, sidebar corrigée sur quatre largeurs. 2735 tests passés, 6 ignorés ; 14 fichiers vérifiés dans chaque archive et HTML restauré avec SHA identique. Source durable : /Users/zenray/.claude/Memory1/Projects/uv-match-height-20-october-2026/Project1.md. Travail terminé ; arrêt demandé par Matthieu. (20 October 2026, 23:33:59 +0200)
+
+## 20 October 2026, 23:34:09 +0200 : Iteration
+
+<!-- feedback-event:696583eff51ff39ab87819b0259d355f432833bd5aebac467ec25ac0e18476c9 (20 October 2026, 23:34:09 +0200) -->
+- Project: uv-match-height-20-october-2026; kind: iteration. (20 October 2026, 23:34:09 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/20/rollout-2026-10-20T13-48-57-01a15924-aa22-7300-9533-52fc3fd3f30f.jsonl. (20 October 2026, 23:34:09 +0200)
+
+> Terminé et consigné avec Ctrl-S. [Ouvrir UV-Match Height](https://zenray-progress.pages.dev/?project=uv-match-height-20-october-2026). (20 October 2026, 23:34:09 +0200)
+>
+> | Demande | État | Preuve | (20 October 2026, 23:34:09 +0200)
+> |---|---|---| (20 October 2026, 23:34:09 +0200)
+> | Article et sommaire corrigés | Fait | Vérifiés sur 4 largeurs | (20 October 2026, 23:34:09 +0200)
+> | Prompts conservés | Fait | 6 textes identiques | (20 October 2026, 23:34:09 +0200)
+> | Tout consigner | Fait | Mémoire, skills, journal et commit `6f14938b9` | (20 October 2026, 23:34:09 +0200)
+>
+> J’arrête ici. (20 October 2026, 23:34:09 +0200)
